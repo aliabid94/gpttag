@@ -25,7 +25,7 @@ def generate_next(dialogue):
 with gr.Blocks() as demo:
     gr.Markdown(
         """
-  # GPT Tag2
+  # GPT Tag3
 
   Let's play GPT Tag! Try to get GPT to say the target word by prompting it up to 10 times.
   Each prompt you get to enter the next three words in the text sequence. 
